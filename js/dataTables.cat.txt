@@ -1,0 +1,17 @@
+{
+	"sProcessing":   "Procesando...",
+	"sLengthMenu":   "<div style='float:left;'><a href='pop.php?mod=prod&pag=cat&action=add'><img src='images/add.png' border='0' align='left'></a>&nbsp;<a href='pop.php?mod=prod&pag=cat&action=add'>Agregar Categor&iacute;a</a></div>",
+	"sZeroRecords":  "No se encontraron resultados",
+	"sInfo":         "Mostrando desde _START_ hasta _END_ de _TOTAL_ registros",
+	"sInfoEmpty":    "Mostrando desde 0 hasta 0 de 0 registros",
+	"sInfoFiltered": "(De _MAX_ en total)",
+	"sInfoPostFix":  "",
+	"sSearch":       "Buscar:",
+	"sUrl":          "",
+	"oPaginate": {
+		"sFirst":    "Primero",
+		"sPrevious": "<",
+		"sNext":     ">",
+		"sLast":     "&Uacute;ltimo"
+	}
+}
